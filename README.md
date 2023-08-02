@@ -1,5 +1,7 @@
 # TechTalent_Version1
 ---
+[Markdown Options](https://www.markdownguide.org/cheat-sheet/)
+---
 > GitHub Commands 1
 ---
 	dir
@@ -15,8 +17,6 @@
 	git remte add origin https://github.com/DanielOduniyi/TechTalent_Version1.git
 	git remote add origin https://github.com/DanielOduniyi/TechTalent_Version1.git
 	git push -u origin main
----
-[Markdown Options](https://www.markdownguide.org/cheat-sheet/)
 ---
 > GitHub Commands 2
 ---
